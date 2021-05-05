@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bjpcjp/datadrive/projects/python-pycaret/mlruns/1/7cfb9a70841c4f73ac9ddedb52069f18/artifacts
+end_time: 1620147814494
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 7cfb9a70841c4f73ac9ddedb52069f18
+run_uuid: 7cfb9a70841c4f73ac9ddedb52069f18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1620147814472
+status: 3
+tags: []
+user_id: bjpcjp
